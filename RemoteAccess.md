@@ -1,6 +1,12 @@
-# Getting started with JLab for students! 
+# Getting started with JLab for students!
 
+<br>
+<br>
 
+First thing to do is to get your username (usr) and password (pswd) for the JLab account. This usr and pswd will the same as the one that you use to login to the remote system  you will be provided access to. The details to getting this are in the '**Credentials**' section below. But there are some steps to be taken before that.
+
+<br>
+<br>
 
 Table of contents
 =================
@@ -12,9 +18,7 @@ Table of contents
   * [**Using Herwig and Rivet**](#using-herwig-and-rivet)
 <!--te-->
 
-
-
-First thing to do is to get your username (usr) and password (pswd) for the JLab account. This usr and pswd will the same as the one that you use to login to the remote system  you will be provided access to. The details to getting this are in the '**Credentials**' section below. But there are some steps to be taken before that. 
+<br>
 
 #### Prerequisistes
 
