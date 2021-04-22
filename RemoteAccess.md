@@ -126,4 +126,4 @@ Enter `singularity pull docker://graemenail/herwig-eic`
 		*You can change the alias names above to your liking*.
 	2. **Second** : Enter `singularity run ./herwig-eic_latest.sif sh` or `singularity run ./herwig-eic_latest.sif bash`.
 
-Usually, you would be given a 5 GB limit to your system. So, you can use the volatile directory for large HepMC files. Enter `cd /volatile/eic/` to change to the 'eic' folder inside 'volatile' folder. 
+Usually, you would be given a 5 GB limit to your system. So, you can use the volatile directory for large HepMC files. Enter `cd /volatile/eic/` to change to the 'eic' folder inside 'volatile' folder. It is better to add new directory with your name to keep things clean and organised. `mkdir yourname`.
