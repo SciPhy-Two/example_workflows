@@ -43,7 +43,11 @@ Table of contents
 
   > " *Dear Officials,*
   >
-  >*My JLab Computer Account Request has been approved and processed, and I have received a JLab username. However, it's difficult for me to contact the help desk >or visit the CEBAF Center in person because I am in India and will be working remotely. I was advised to contact the helpdesk and request for an online meeting >in order to receive the password. So, could you kindly send me a bluejeans connection link or any other softwares' at any time that is convenient for you so that >the password can be issued? I also want to mention that although there is a time difference of 10.5 hour between the two time zones, I can be ready for the >meeting at any time if necessary.*
+  >*My JLab Computer Account Request has been approved and processed, and I have received a JLab username. However, it's difficult for me to contact the help desk
+  >or visit the CEBAF Center in person because I am in India and will be working remotely. I was advised to contact the helpdesk and request for an online meeting
+  >in order to receive the password. So, could you kindly send me a bluejeans connection link or any other softwares' at any time that is convenient for you so
+  >that the password can be issued? I also want to mention that although there is a time difference of 10.5 hour between the two time zones, I can be ready for
+  >the meeting at any time if necessary.*
   >
   >*Yours Sincerely,* "
 
@@ -121,3 +125,5 @@ Enter `singularity pull docker://graemenail/herwig-eic`
 		- Now everytime ypu want use Herwig or rivet commands enter `source Activate`
 		*You can change the alias names above to your liking*.
 	2. **Second** : Enter `singularity run ./herwig-eic_latest.sif sh` or `singularity run ./herwig-eic_latest.sif bash`.
+
+Usually, you would be given a 5 GB limit to your system. So, you can use the volatile directory for large HepMC files. Enter `cd /volatile/eic/` to change to the 'eic' folder inside 'volatile' folder. 
